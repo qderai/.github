@@ -18,8 +18,6 @@ Pieces of our stack that are useful on their own, maintained by the team that ru
 | Repository | What it is |
 |---|---|
 | [hebrew-i18n](https://github.com/qderai/hebrew-i18n) | Translate a Hebrew-first site by its own text: one dictionary keyed by the Hebrew, applied in the browser and on the server alike, RTL-aware. |
-| [worker-status-page](https://github.com/qderai/worker-status-page) | A status page on a single Cloudflare Worker: scheduled probes, components, incidents and history, the page behind status.qder.ai. |
-| [israeli-payments](https://github.com/qderai/israeli-payments) | One TypeScript interface over Israeli card processors (PayPlus, Hyp, Grow, Cardcom, Tranzila), with pinned payment pages and amounts in agorot. |
 | [icount-js](https://github.com/qderai/icount-js) | A typed client for the iCount invoicing API. |
 | [israel-map-r2](https://github.com/qderai/israel-map-r2) | A self-hosted vector map of Israel: PMTiles on Cloudflare R2, served by a Worker, drawn with MapLibre. |
 | [qder-brand](https://github.com/qderai/qder-brand) | Our logo, colours and how to use them. |

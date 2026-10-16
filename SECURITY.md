@@ -4,7 +4,7 @@ Thank you for helping keep Qder and the restaurants and diners who use it safe.
 
 ## Reporting a vulnerability
 
-Email **hello@qder.ai** with the subject "Security", or use GitHub's private vulnerability reporting on the
+Email **security@qder.ai**, or use GitHub's private vulnerability reporting on the
 affected repository. Please include what you found, how to reproduce it, and the impact you expect.
 
 - We acknowledge reports within 3 business days and keep you updated until it is fixed.
