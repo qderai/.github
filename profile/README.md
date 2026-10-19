@@ -21,6 +21,7 @@ Pieces of our stack that are useful on their own, maintained by the team that ru
 | [icount-js](https://github.com/qderai/icount-js) | A typed client for the iCount invoicing API. |
 | [israel-map-r2](https://github.com/qderai/israel-map-r2) | A self-hosted vector map of Israel: PMTiles on Cloudflare R2, served by a Worker, drawn with MapLibre. |
 | [qder-brand](https://github.com/qderai/qder-brand) | Our logo, colours and how to use them. |
+| [track-for-git](https://github.com/qderai/track-for-git) | A calm, real-time dashboard of a GitHub organisation: every commit, push and pull request, who made it and with which AI agent, what changed and what shipped. Self-hosted on Cloudflare Workers or Node. |
 
 ### Built with
 
